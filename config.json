@@ -1,0 +1,13 @@
+
+{
+  "points": {
+    "message": 1
+  },
+  "cooldowns": {
+    "message_points_cooldown": 60
+  },
+  "permissions": {
+    "admin_users": ["gabis2s2"],
+    "moderator_roles": ["Moderador", "Admin", "Administrador"]
+  }
+}
